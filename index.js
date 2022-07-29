@@ -4,3 +4,5 @@ function addFunc(a,b){
 }
 
 console.log(addFunc(5+10));
+
+console.log("hi, before push");
